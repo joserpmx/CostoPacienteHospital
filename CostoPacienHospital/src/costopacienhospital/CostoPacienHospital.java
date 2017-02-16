@@ -18,7 +18,7 @@ public class CostoPacienHospital {
     public static void main(String[] args) {
         // Inicio
         //Comentario nuevo
-        //Comentario 2
+        //Comentario mas nuevo
         Scanner lector=new Scanner(System.in);
         int TipoEnfermedad, dias;
         String sexo;
