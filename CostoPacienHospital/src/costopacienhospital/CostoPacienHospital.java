@@ -19,7 +19,7 @@ public class CostoPacienHospital {
         // Inicio
         //Comentario nuevo
         //Comentario mas nuevo
-        //MartinLey
+        //MartinLey1
         Scanner lector=new Scanner(System.in);
         int TipoEnfermedad, dias;
         String sexo;
