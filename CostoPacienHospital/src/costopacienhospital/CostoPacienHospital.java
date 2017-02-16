@@ -11,7 +11,7 @@ package costopacienhospital;
  */
 import java.util.Scanner;
 public class CostoPacienHospital {
-
+//Modificacion en comentario
     /**
      * @param args the command line arguments
      */
