@@ -6,7 +6,7 @@
 package costopacienhospital;
 
 /**
- *
+ * Kawa estuvo aqui
  * @author Jose
  */
 import java.util.Scanner;
